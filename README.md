@@ -1,5 +1,12 @@
 # Docker Images Pusher
+action执行完成以后
+1 $ docker login --username=red_kylin crpi-bj5tl41uvp47zeev.cn-qingdao.personal.cr.aliyuncs.com
+用于登录的用户名为阿里云账号全名，密码为开通服务时设置的密码。
 
+您可以在访问凭证页面修改凭证密码。
+
+2. 从Registry中拉取镜像
+$ docker pull crpi-bj5tl41uvp47zeev.cn-qingdao.personal.cr.aliyuncs.com/mastershf/nginx:[镜像版本号]
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
 - 支持DockerHub, gcr.io, k8s.io, ghcr.io等任意仓库<br>
 - 支持最大40GB的大型镜像<br>
