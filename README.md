@@ -1,4 +1,12 @@
 # Docker Images Pusher
+修改image.txt文件
+nginx
+#支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
+
 action执行完成以后
 1 $ docker login --username=red_kylin crpi-bj5tl41uvp47zeev.cn-qingdao.personal.cr.aliyuncs.com
 用于登录的用户名为阿里云账号全名，密码为开通服务时设置的密码。
