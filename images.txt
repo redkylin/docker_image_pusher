@@ -1,2 +1,5 @@
 docker.n8n.io/n8nio/n8n:latest
 postgres:15
+redis:latest
+0001coder/coolcrawl-worker:latest
+0001coder/coolcrawl-server:latest
