@@ -3,3 +3,4 @@ postgres:15
 redis:latest
 0001coder/coolcrawl-worker:latest
 0001coder/coolcrawl-server:latest
+node:18-bullseye
