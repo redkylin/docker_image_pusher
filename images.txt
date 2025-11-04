@@ -1,3 +1,4 @@
+ghcr.io/getactions/forwader
 n8nio/n8n
 postgres:15
 redis:latest
