@@ -1,4 +1,4 @@
-mietzen/redsocks-proxy:latest
+mietzen/redsocks-proxy:stable
 n8nio/n8n
 postgres:15
 redis:latest
