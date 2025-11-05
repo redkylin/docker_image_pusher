@@ -1,4 +1,4 @@
-essentier/docker-redsocks-proxy:latest
+mietzen/redsocks-proxy:latest
 n8nio/n8n
 postgres:15
 redis:latest
