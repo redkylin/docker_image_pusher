@@ -1,3 +1,4 @@
+nginx:latest
 mietzen/redsocks-proxy:stable
 n8nio/n8n
 postgres:15
