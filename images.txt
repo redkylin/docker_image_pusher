@@ -1,13 +1,1 @@
 docker/dockerfile:1
-node:22-slim
-golang:1.24
-nginx:latest
-mietzen/redsocks-proxy:stable
-n8nio/n8n
-postgres:15
-redis:latest
-0001coder/coolcrawl-worker:latest
-0001coder/coolcrawl-server:latest
-node:18-bullseye
-ghcr.io/fish2018/pansou-web:latest
-willfarrell/autoheal:latest
