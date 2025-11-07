@@ -1,2 +1,1 @@
-ghcr.io/firecrawl/playwright-service:latest
-ghcr.io/firecrawl/firecrawl:latest
+python:3.12
