@@ -1,2 +1,2 @@
 v2fly/v2fly-core:latest
-ambrop72/tun2socks:latest
+xjasonlyu/tun2socks:latest
